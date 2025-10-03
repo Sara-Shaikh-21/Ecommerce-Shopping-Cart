@@ -53,11 +53,13 @@ Server runs at http://localhost:5001
 2. npm install
 3. npm start
 
-Link to video description
-https://www.loom.com/share/c918ddb6ce3a420898c562c75644f31d?sid=716b45b1-d87a-4c7b-b79c-1538f6a0136e
 
 ## Run backend tests with Jest:
 ```
 npm test
 ```
+
+## Link to video description
+https://www.loom.com/share/c918ddb6ce3a420898c562c75644f31d?sid=716b45b1-d87a-4c7b-b79c-1538f6a0136e
+
 
